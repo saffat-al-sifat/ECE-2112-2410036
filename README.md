@@ -49,7 +49,7 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. | Title | Link |
 | :---: | :---: | :---: |
 | 01 | Introduction to Logisim Evolution | [Lab 01](https://github.com/saffat-al-sifat/ECE-2112-2410036/blob/main/Lab1.md)| 
-| 02 | Plotting logic circuit on Logisim Evolution | [Lab 01](https://github.com/saffat-al-sifat/ECE-2112-2410036/blob/main/Lab2.md)| 
+| 02 | Plotting logic circuit on Logisim Evolution | [Lab 02](https://github.com/saffat-al-sifat/ECE-2112-2410036/blob/main/Lab2.md)| 
 
 
 </div>
